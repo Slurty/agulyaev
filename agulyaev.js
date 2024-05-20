@@ -42,9 +42,6 @@ const timeAnimationIn = 500;
 </script>
 
 
-
-<script src="https://unpkg.com/lenis@1.0.45/dist/lenis.min.js"></script>
-
 <script>
 const lenis = new Lenis()
 
